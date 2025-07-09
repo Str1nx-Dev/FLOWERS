@@ -1,2 +1,3 @@
 # FLOWERS
-BLAH
+Simple webpgage for a flower shop
+
